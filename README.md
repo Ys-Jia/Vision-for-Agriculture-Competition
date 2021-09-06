@@ -1,2 +1,2 @@
 # Vision-for-Agriculture-Competition
-A project for Agriculture vision task
+A project for Agriculture Vision Task
